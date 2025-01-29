@@ -1,4 +1,5 @@
 import fastify from "fastify";
+import cors from "@fastify/cors";
 import * as teamsJson from "./data/teams.json"
 import * as driversJson from "./data/drivers.json"
 
@@ -6,6 +7,10 @@ const teams = teamsJson;
 const drivers = driversJson;
 
 const server = fastify({ logger: true });
+
+server.register(cors, {
+    origin: "*",
+});
 
 server.get("/teams", async (request, response) => {
     response.type("application/json").code(200);
