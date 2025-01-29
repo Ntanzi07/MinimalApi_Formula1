@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Red Bull Racing",
+        "base": "Milton Keynes, United Kingdom",
+        "team_principal": "Christian Horner",
+        "car": "RB20",
+        "engine_supplier": "Honda RBPT",
+        "championships_won": {
+            "constructors": 6,
+            "drivers": 7
+        }
+    },
+    {
+        "id": 2,
+        "name": "Mercedes-AMG Petronas Formula One Team",
+        "base": "Brackley, United Kingdom",
+        "team_principal": "Toto Wolff",
+        "car": "W15",
+        "engine_supplier": "Mercedes",
+        "championships_won": {
+            "constructors": 8,
+            "drivers": 9
+        }
+    },
+    {
+        "id": 3,
+        "name": "Scuderia Ferrari",
+        "base": "Maranello, Italy",
+        "team_principal": "Frédéric Vasseur",
+        "car": "SF-24",
+        "engine_supplier": "Ferrari",
+        "championships_won": {
+            "constructors": 16,
+            "drivers": 15
+        }
+    },
+    {
+        "id": 4,
+        "name": "McLaren F1 Team",
+        "base": "Woking, United Kingdom",
+        "team_principal": "Andrea Stella",
+        "car": "MCL38",
+        "engine_supplier": "Mercedes",
+        "championships_won": {
+            "constructors": 8,
+            "drivers": 12
+        }
+    },
+    {
+        "id": 5,
+        "name": "Aston Martin Aramco F1 Team",
+        "base": "Silverstone, United Kingdom",
+        "team_principal": "Mike Krack",
+        "car": "AMR24",
+        "engine_supplier": "Mercedes",
+        "championships_won": {
+            "constructors": 0,
+            "drivers": 0
+        }
+    }
+]

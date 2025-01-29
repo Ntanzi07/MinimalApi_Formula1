@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Max Verstappen",
+        "nationality": "Dutch",
+        "team": "Red Bull Racing",
+        "car_number": 1,
+        "championships_won": 3,
+        "stats": {
+            "races": 186,
+            "wins": 54,
+            "podiums": 98,
+            "poles": 32,
+            "fastest_laps": 30
+        }
+    },
+    {
+        "id": 2,
+        "name": "Lewis Hamilton",
+        "nationality": "British",
+        "team": "Mercedes",
+        "car_number": 44,
+        "championships_won": 7,
+        "stats": {
+            "races": 332,
+            "wins": 103,
+            "podiums": 197,
+            "poles": 104,
+            "fastest_laps": 65
+        }
+    },
+    {
+        "id": 3,
+        "name": "Charles Leclerc",
+        "nationality": "Monégasque",
+        "team": "Ferrari",
+        "car_number": 16,
+        "championships_won": 0,
+        "stats": {
+            "races": 125,
+            "wins": 5,
+            "podiums": 30,
+            "poles": 23,
+            "fastest_laps": 9
+        }
+    },
+    {
+        "id": 4,
+        "name": "Fernando Alonso",
+        "nationality": "Spanish",
+        "team": "Aston Martin",
+        "car_number": 14,
+        "championships_won": 2,
+        "stats": {
+            "races": 379,
+            "wins": 32,
+            "podiums": 106,
+            "poles": 22,
+            "fastest_laps": 24
+        }
+    }
+]
